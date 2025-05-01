@@ -26,7 +26,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <Image src="/logo.svg" alt="logo" width={160} height={100} className="mt-5 rounded-xl border-2" />
+      <Image src="/report.webp" alt="logo" width={1000} height={700} className="mt-5 rounded-xl border-2" />
     </section>
   );
 };
